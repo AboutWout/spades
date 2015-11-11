@@ -1,2 +1,2 @@
-# spades
+# Spades
 Spades

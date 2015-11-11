@@ -1,0 +1,23 @@
+{
+  "name": "spades",
+  "version": "0.0.1",
+  "description": "Spades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AboutWout/spades.git"
+  },
+  "author": {
+    "name": "Wouter Vervloet",
+    "email": "me@woutervervloet.com",
+    "url": "http://woutervervloet.com"
+  },
+  "license" : "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/AboutWout/spades/issues"
+  },
+  "homepage": "https://github.com/AboutWout/spades#readme"
+}
